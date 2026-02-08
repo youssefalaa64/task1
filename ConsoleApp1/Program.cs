@@ -34,7 +34,7 @@ namespace ConsoleApp1
 
 
 
-
+            //https://docs.google.com/document/d/1-vbVVcS6US3ScO7rudZCx5O4xdHPkPEy-x4FCWg6xsQ/edit?usp=sharing
         }
 
     }
