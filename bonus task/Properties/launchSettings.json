@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "bonus task": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
