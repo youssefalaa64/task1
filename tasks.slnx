@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="bonus task/bonus task.csproj" Id="4280adf0-a99b-4cd4-9caa-bed85ae18b43" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="task 3/task 3.csproj" Id="6adb2e9a-a721-4c66-8892-f1a8fe2c3c38" />
   <Project Path="task2/task2.csproj" Id="bef29cf0-b077-4ca0-b1f9-5061d3ffd6ca" />
 </Solution>
