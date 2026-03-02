@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "task3_library": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
