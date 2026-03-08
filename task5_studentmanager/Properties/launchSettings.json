@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "task5_studentmanager": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
