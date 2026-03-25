@@ -5,4 +5,5 @@
   <Project Path="task2/task2.csproj" Id="bef29cf0-b077-4ca0-b1f9-5061d3ffd6ca" />
   <Project Path="task3_library/task4_library.csproj" Id="133d6b23-e406-4430-bdc3-91f1f9bb02d4" />
   <Project Path="task5_studentmanager/task5_studentmanager.csproj" Id="f43d7b4a-3be4-410f-afbf-3b31adfe9688" />
+  <Project Path="TASK6/TASK6.csproj" Id="6051c38c-567c-4139-9b1b-c4b0a62b9a9d" />
 </Solution>
