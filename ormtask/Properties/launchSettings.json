@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ormtask": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -115,7 +115,7 @@ namespace TASK6
                         {
                             Console.WriteLine("Type: 1.True or False , 2.Choose One, 3.Multiple Choice");
                             int type = Convert.ToInt32(Console.ReadLine());
-
+                            //
 
                             Console.Write("Level (1.Easy, 2.Medium, 3.Hard): ");
                             Level level = (Level)Convert.ToInt32(Console.ReadLine());
